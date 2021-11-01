@@ -2,7 +2,7 @@
   font-family: "Chalet";
   font-style: normal;
   font-weight: normal;
-  src: url("./assets/chalet.woff") format("woff");
+  src: url(./assets/chalet.woff) format("woff");
 }
 
 html {
@@ -12,7 +12,7 @@ html {
   color: #8dd6f9;
   background-color: #2b3a42;
   background-size: cover;
-  background-image: url("assets/batman.jpg");
+  background-image: url(./assets/batman.jpg);
 }
 
 body {
@@ -42,3 +42,4 @@ img {
   display: flex;
   justify-content: space-evenly;
 }
+

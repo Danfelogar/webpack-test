@@ -1,1 +1,1 @@
-console.log("hello world");
+console.log("Hola mundo sin configuración con Webpack 😱");
